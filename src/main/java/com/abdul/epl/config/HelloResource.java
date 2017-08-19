@@ -1,4 +1,4 @@
-package config;
+package com.abdul.epl.config;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
